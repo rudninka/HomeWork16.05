@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork16.05\Task47\bin\Debug\net6.0\Task47.exe
+E:\работа с vcode\HomeWork16.05\Task47\bin\Debug\net6.0\Task47.deps.json
+E:\работа с vcode\HomeWork16.05\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+E:\работа с vcode\HomeWork16.05\Task47\bin\Debug\net6.0\Task47.dll
+E:\работа с vcode\HomeWork16.05\Task47\bin\Debug\net6.0\Task47.pdb
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.dll
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\refint\Task47.dll
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.pdb
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+E:\работа с vcode\HomeWork16.05\Task47\obj\Debug\net6.0\ref\Task47.dll
