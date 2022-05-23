@@ -24,6 +24,10 @@ Console.WriteLine();
 Console.WriteLine("Введите номер элемента: ");
 int N = int.Parse(Console.ReadLine());
 int count = 1;
+if (N > mass.Length)
+{
+    Console.WriteLine("Такого элемента нет");
+}
 for (int i = 0; i < mass.GetLength(0); i++)
 {
     for (int j = 0; j < mass.GetLength(1); j++)
@@ -37,10 +41,4 @@ for (int i = 0; i < mass.GetLength(0); i++)
         else if (count < N) 
         {
             count++;
-        }
-        else 
-        {
-            Console.WriteLine("Такого элемента нет");
-        }
-}
-}
+        }}}
